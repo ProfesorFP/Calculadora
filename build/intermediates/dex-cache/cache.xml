@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\AndroidStudioProjects\Calculadora\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\android\AndroidStudioProjects\Calculadora\app\build\intermediates\pre-dexed\debug\classes-9764d2ba4d6e8fa7e0ff8b7c5913a1958e834bac.jar" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioProjects\Calculadora\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\android\AndroidStudioProjects\Calculadora\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-944e04cf81d9a83ea829c2ed9085f987a3c2d7f5.jar" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioProjects\Calculadora\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\android\AndroidStudioProjects\Calculadora\app\build\intermediates\pre-dexed\debug\classes-2331c19c587379d7085a27181b9e9a2f85e91b70.jar" />
+    </item>
+    <item
+        jar="D:\android\SDK\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\android\AndroidStudioProjects\Calculadora\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-8ce4fadd7a1729790ac70803b206ffebfbbe4d37.jar" />
+    </item>
+
+</items>
